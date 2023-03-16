@@ -40,5 +40,6 @@
 <p>Let's get in touch!</p>
 
 🔗 https://www.linkedin.com/in/errikos-streviniotis/
+
 📧 estreviniotis@tuc.gr
 
