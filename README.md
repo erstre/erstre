@@ -56,15 +56,15 @@
 
 <p>Let's get in touch!</p>
 
-<div>
+<div align="center">
   <a href="[Your Email Address]">
-    <img src="https://img.shields.io/badge/-Email-9cf?logo=gmail&logoColor=white" alt="estreviniotis [.at] tuc.gr">
+    <img src="https://img.shields.io/badge/-Email-9cf?logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="[Your LinkedIn Profile Link]">
-    <img src="https://img.shields.io/badge/-LinkedIn-9cf?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/errikos-streviniotis/">
+    <img src="https://img.shields.io/badge/-LinkedIn-9cf?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="[Your Personal Website Link]">
-    <img src="https://img.shields.io/badge/-Website-9cf?logo=google-chrome&logoColor=white" alt="[Website](https://scholar.google.com/citations?user=V-ETXSkAAAAJ&hl=en)">
+    <img src="https://img.shields.io/badge/-Website-9cf?logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
 
