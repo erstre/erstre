@@ -1,40 +1,69 @@
-# Hi there, I'm [Your Name] 👋
+<!-- Header -->
+<h1 align="center">Hi there, I'm Errikos 👋</h1>
 
-I'm a [Your Job Title] with a passion for [Your Passion]. I enjoy building [Your Favorite Types of Projects], and I'm constantly learning and exploring new technologies. 
+<!-- Introduction -->
+<p align="center">I'm a Researcher with a passion for Artificial Intelligence. I enjoy building smart algorithms, and I'm constantly learning and exploring new technologies.</p>
 
-## 💼 Work
+<!-- Work -->
+<h2 align="center">💼 Work</h2>
 
-- Currently working as a [Your Job Title] at [Your Company Name]
-- Previously worked as a [Your Previous Job Title] at [Your Previous Company Name]
+<ul align="center">
+  <li>🔭 Currently working as a Research Associate at ATHENA Research and Innovation Center</li>
+  <li>🌟 Previously worked as a Graduate Student Researcher at Technical University of Crete</li>
+</ul>
 
-## 🚀 Skills
+<!-- Skills -->
+<h2 align="center">🚀 Skills</h2>
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+<p align="center">Here are some of my top skills:</p>
 
-## 💻 Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/-Skill%201-9cf" alt="Skill 1">
+  <img src="https://img.shields.io/badge/-Skill%202-9cf" alt="Skill 2">
+  <img src="https://img.shields.io/badge/-Skill%203-9cf" alt="Skill 3">
+  <img src="https://img.shields.io/badge/-Skill%204-9cf" alt="Skill 4">
+  <img src="https://img.shields.io/badge/-Skill%205-9cf" alt="Skill 5">
+</div>
 
-Here are some of my favorite projects that I've built:
+<!-- Projects -->
+<h2 align="center">💻 Projects</h2>
 
-- [Project 1]
-- [Project 2]
-- [Project 3]
-- [Project 4]
-- [Project 5]
+<p align="center">Here are some of my favorite projects that I've built:</p>
 
-## 📚 Education
+<ul align="center">
+  <li>🌟 [Project 1]</li>
+  <li>🌟 [Project 2]</li>
+  <li>🌟 [Project 3]</li>
+  <li>🌟 [Project 4]</li>
+  <li>🌟 [Project 5]</li>
+</ul>
 
-- [Degree or Certification] in [Field of Study] from [School Name]
-- [Degree or Certification] in [Field of Study] from [School Name]
+<!-- Education -->
+<h2 align="center">📚 Education</h2>
 
-## 📫 Contact
+<p align="center">Here's my academic background:</p>
 
-You can reach me at [Your Email Address], or connect with me on [Your Social Media Links].
+<ul align="center">
+  <li>🎓 Master's degree in Computer Science from Technical University of Crete</li>
+  <li>🎓 M. Eng. (Integrated master's degree) in Electrical & Computer Engineering from Technical University of Crete</li>
+</ul>
 
+<!-- Contact -->
+<h2 align="center">📫 Contact</h2>
 
+<p align="center">Let's get in touch!</p>
+
+<div align="center">
+  <a href="[Your Email Address]">
+    <img src="https://img.shields.io/badge/-Email-9cf?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="[Your LinkedIn Profile Link]">
+    <img src="https://img.shields.io/badge/-LinkedIn-9cf?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[Your Personal Website Link]">
+    <img src="https://img.shields.io/badge/-Website-9cf?logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
 
 <!--
 # :wave: Hello
