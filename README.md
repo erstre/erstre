@@ -31,7 +31,7 @@
 
 <ul>
   <li>🎓 Master's degree in Computer Science from <a href="https://www.tuc.gr/index.php?id=5397">Technical University of Crete</a></li>
-  <li>🎓 M. Eng. (Integrated master's degree) in Electrical & Computer Engineering from <a href="https://www.tuc.gr/index.php?id=5397">Technical University of Crete</a></li>
+  <li>🎓 M. Eng. (Integrated master's degree) in <a href="https://www.ece.tuc.gr/index.php?id=4481">Electrical & Computer Engineering</a> from <a href="https://www.tuc.gr/index.php?id=5397">Technical University of Crete</a></li>
 </ul>
 
 <!-- Contact -->
