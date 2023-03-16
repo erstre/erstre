@@ -13,33 +13,16 @@
 </ul>
 
 <!-- Skills -->
-<h2>🚀 Skills</h2>
+<h2>🚀 Research Interests</h2>
 
-<p>Here are some of my top skills:</p>
-
-<div>
-  <img src="https://img.shields.io/badge/-Skill%201-9cf" alt="Artificial Intelligence">
-  <img src="https://img.shields.io/badge/-Skill%202-9cf" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/-Skill%203-9cf" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/-Skill%204-9cf" alt="Recommender Systems">
-  <img src="https://img.shields.io/badge/-Skill%205-9cf" alt="Game Theory">
-</div>
-
-<!-- Projects -->
-<!--
-<h2>💻 Projects</h2>
-
-<p>Here are some of my favorite projects that I've built:</p>
-
-<ul>
-  <li>🌟 [Project 1]</li>
-  <li>🌟 [Project 2]</li>
-  <li>🌟 [Project 3]</li>
-  <li>🌟 [Project 4]</li>
-  <li>🌟 [Project 5]</li>
-</ul>
--->
-
+<p>Here are some of my research interests:</p>
+<u1>
+  <li>Artificial Intelligence</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Recommender Systems</li>
+  <li>Game Theory</li>
+</u1>
 
 <!-- Education -->
 <h2>📚 Education</h2>
@@ -56,15 +39,11 @@
 
 <p>Let's get in touch!</p>
 
-<div align="center">
-  <a href="[Your Email Address]">
-    <img src="https://img.shields.io/badge/-Email-9cf?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="[Your LinkedIn Profile Link]">
-    <img src="https://img.shields.io/badge/-LinkedIn-9cf?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[Your Personal Website Link]">
-    <img src="https://img.shields.io/badge/-Website-9cf?logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</div>
+<u1>
+  <li>Artificial Intelligence</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Recommender Systems</li>
+  <li>Game Theory</li>
+</u1>
 
