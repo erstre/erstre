@@ -1,3 +1,42 @@
+# Hi there, I'm [Your Name] 👋
+
+I'm a [Your Job Title] with a passion for [Your Passion]. I enjoy building [Your Favorite Types of Projects], and I'm constantly learning and exploring new technologies. 
+
+## 💼 Work
+
+- Currently working as a [Your Job Title] at [Your Company Name]
+- Previously worked as a [Your Previous Job Title] at [Your Previous Company Name]
+
+## 🚀 Skills
+
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+- [Skill 4]
+- [Skill 5]
+
+## 💻 Projects
+
+Here are some of my favorite projects that I've built:
+
+- [Project 1]
+- [Project 2]
+- [Project 3]
+- [Project 4]
+- [Project 5]
+
+## 📚 Education
+
+- [Degree or Certification] in [Field of Study] from [School Name]
+- [Degree or Certification] in [Field of Study] from [School Name]
+
+## 📫 Contact
+
+You can reach me at [Your Email Address], or connect with me on [Your Social Media Links].
+
+
+
+<!--
 # :wave: Hello
 
 My name is Errikos Streviniotis and I am a Researcher @ [ATHENA](https://www.athenarc.gr/en).
@@ -14,7 +53,7 @@ My name is Errikos Streviniotis and I am a Researcher @ [ATHENA](https://www.ath
 # Contact me at:
 - :link: https://www.linkedin.com/in/errikos-streviniotis/
 - :email: estreviniotis@tuc.gr
-
+-->
 
 <!--
 **erstre/erstre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
