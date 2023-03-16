@@ -39,11 +39,6 @@
 
 <p>Let's get in touch!</p>
 
-<u1>
-  <li>Artificial Intelligence</li>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Recommender Systems</li>
-  <li>Game Theory</li>
-</u1>
+🔗 https://www.linkedin.com/in/errikos-streviniotis/
+📧 estreviniotis@tuc.gr
 
