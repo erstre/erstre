@@ -18,14 +18,15 @@
 <p>Here are some of my top skills:</p>
 
 <div>
-  <img src="https://img.shields.io/badge/-Skill%201-9cf" alt="Skill 1">
-  <img src="https://img.shields.io/badge/-Skill%202-9cf" alt="Skill 2">
-  <img src="https://img.shields.io/badge/-Skill%203-9cf" alt="Skill 3">
-  <img src="https://img.shields.io/badge/-Skill%204-9cf" alt="Skill 4">
-  <img src="https://img.shields.io/badge/-Skill%205-9cf" alt="Skill 5">
+  <img src="https://img.shields.io/badge/-Skill%201-9cf" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/-Skill%202-9cf" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/-Skill%203-9cf" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/-Skill%204-9cf" alt="Recommender Systems">
+  <img src="https://img.shields.io/badge/-Skill%205-9cf" alt="Game Theory">
 </div>
 
 <!-- Projects -->
+<!--
 <h2>💻 Projects</h2>
 
 <p>Here are some of my favorite projects that I've built:</p>
@@ -37,6 +38,8 @@
   <li>🌟 [Project 4]</li>
   <li>🌟 [Project 5]</li>
 </ul>
+-->
+
 
 <!-- Education -->
 <h2>📚 Education</h2>
@@ -55,13 +58,13 @@
 
 <div>
   <a href="[Your Email Address]">
-    <img src="https://img.shields.io/badge/-Email-9cf?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-9cf?logo=gmail&logoColor=white" alt="estreviniotis [.at] tuc.gr">
   </a>
   <a href="[Your LinkedIn Profile Link]">
-    <img src="https://img.shields.io/badge/-LinkedIn-9cf?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-9cf?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/errikos-streviniotis/">
   </a>
   <a href="[Your Personal Website Link]">
-    <img src="https://img.shields.io/badge/-Website-9cf?logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/-Website-9cf?logo=google-chrome&logoColor=white" alt="[Website](https://scholar.google.com/citations?user=V-ETXSkAAAAJ&hl=en)">
   </a>
 </div>
 
