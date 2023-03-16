@@ -8,8 +8,8 @@
 <h2>💼 Work</h2>
 
 <ul>
-  <li>🔭 Currently working as a Research Associate at ATHENA Research and Innovation Center</li>
-  <li>🌟 Previously worked as a Graduate Student Researcher at Technical University of Crete</li>
+  <li>🔭 Currently working as a Research Associate at [ATHENA Research and Innovation Center](https://www.athenarc.gr/en)</li>
+  <li>🌟 Previously worked as a Graduate Student Researcher at [Technical University of Crete](https://www.tuc.gr/index.php?id=5397)</li>
 </ul>
 
 <!-- Skills -->
@@ -30,8 +30,8 @@
 <p>Here's my academic background:</p>
 
 <ul>
-  <li>🎓 Master's degree in Computer Science from Technical University of Crete</li>
-  <li>🎓 M. Eng. (Integrated master's degree) in Electrical & Computer Engineering from Technical University of Crete</li>
+  <li>🎓 Master's degree in Computer Science from [Technical University of Crete](https://www.tuc.gr/index.php?id=5397)</li>
+  <li>🎓 M. Eng. (Integrated master's degree) in Electrical & Computer Engineering from [Technical University of Crete](https://www.tuc.gr/index.php?id=5397)</li>
 </ul>
 
 <!-- Contact -->
