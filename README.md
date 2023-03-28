@@ -8,8 +8,8 @@
 <h2>💼 Work</h2>
 
 <ul>
-  <li>🔭 Currently working as a Research Associate at <a href="https://www.athenarc.gr/en">ATHENA Research and Innovation Center</a></li>
-  <li>🌟 Previously worked as a Graduate Student Researcher at <a href="https://www.tuc.gr/index.php?id=5397">Technical University of Crete</a></li>
+  <li>🔭 Currently working as a Research Associate at <a href="https://www.athenarc.gr/en">ATHENA Research and Innovation Center</a>.</li>
+  <li>🌟 Previously worked as a Graduate Student Researcher at <a href="https://www.tuc.gr/index.php?id=5397">Technical University of Crete</a>.</li>
 </ul>
 
 <!-- Skills -->
